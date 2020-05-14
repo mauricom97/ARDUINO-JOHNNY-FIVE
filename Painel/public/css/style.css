@@ -1,0 +1,76 @@
+body{
+    background-color: rgba(255, 255, 255, 0.363);
+}
+.painel{
+   width: 253px;
+   height: 458px;
+   background-color: rgb(0, 0, 0);
+   border-radius: 20px;
+   bottom: 100px;
+}
+.ledverde{
+    padding: 60px;
+    border-radius: 20px;
+    background-color: rgba(1, 165, 1, 0.486);
+    border-color: rgb(0, 255, 34);
+    border-style: double;
+}
+.ledvermelho{
+    padding: 60px;
+    border-radius: 20px;
+    background-color: rgba(255, 0, 0, 0.404);
+    border-color: rgb(255, 0, 0);
+    border-style: double;
+}
+.ledamarelo{
+    padding: 60px;
+    border-radius: 20px;
+    background-color: rgba(217, 255, 0, 0.507);
+    border-color: rgb(255, 251, 0);
+    border-style: double;
+}
+.ledazul{
+    padding: 60px;
+    border-radius: 20px;
+    background-color: rgba(17, 0, 255, 0.432);
+    border-color: rgb(0, 38, 255);
+    border-style: double;
+}
+.ledAleatorio{
+    padding: 60px;
+    border-radius: 20px;
+    background-color: rgb(255, 136, 0);
+    border-color: rgb(0, 255, 221);
+    border-style: double;
+}
+
+.ledAleatorio2s{
+    padding: 60px;
+    border-radius: 20px;
+    background-color: rgba(247, 0, 255, 0.342);
+    border-color: rgb(89, 0, 255);
+    border-style: double;
+}
+
+.texto{
+    text-align: center;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.slider-wrapper {
+    display: inline-block;
+    width: 20px;
+    height: 150px;
+    padding: 0;
+    
+  }
+
+  .slider-wrapper input {
+    width: 250px;
+    left: 30px;
+    margin: 0;
+    transform: rotate(-90deg);
+    bottom: 0px;
+    
+    
+  }
