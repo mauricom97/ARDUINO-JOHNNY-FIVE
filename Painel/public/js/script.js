@@ -9,7 +9,7 @@
            var board = new five.Board();
            
            board.on("ready", function() {
-             var led = new five.Led(3);
+             var led = new five.Led(2);
              led.blink(500);
            });
 
